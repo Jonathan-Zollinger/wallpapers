@@ -8,7 +8,7 @@ These are some wallpapers I've drawn. I've tried to include the source svg file 
 :book: Table of Contents</h2>
 
 <ul>
-    <li><a href="minimal">Minimal Wallpapers</a></li>
+    <li><a href="README.md#minimal">Minimal Wallpapers</a></li>
     
 </ul>
 
